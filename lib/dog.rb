@@ -25,6 +25,13 @@ class Person
       @name
     end
   end
+  
+  def job=(job)
+    @job = job
+    
+    def job
+      @job
+    end
 end
   
 

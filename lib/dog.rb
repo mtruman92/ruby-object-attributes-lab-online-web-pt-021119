@@ -8,8 +8,8 @@ class Dog
   end
 end
 
-name_of_the_dog = Dog.new("")
-name_of_the_dog.name
+#name_of_the_dog = Dog.new("")
+#name_of_the_dog.name
 
 def breed=(breed)
   @breed=breed 
